@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: XLICON-V2-MD
+    name: QUEEN_SOFIA
     env: docker
     region: Frankfurt
     plan: free
