@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'XLICON-BOT',
+      name: 'QUEEN_SOFIA',
       script: 'index.js',
       interpreter: 'node',
       interpreter_args: '--experimental-modules',
