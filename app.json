@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (X-BOT)",
+  "name": "queensofia",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/salmanytofficial/XLICON-V2-MD/main",
+  "repository": "https://github.com/PAPAIGWE241/QUEEN_SOFIA/main",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
