@@ -576,7 +576,7 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "XLICON-V2",
+                        title: "QUEEN_SOFIA",
                         body: "welcome to our Group",
                         thumbnailUrl: welcomeApiUrl,
                         sourceUrl: 'https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk',
@@ -629,10 +629,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "XLICON-V2 BOT",
+                        title: "QUEEN_SOFIA",
                         body: "Goodbye from our Group",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW',
+                        sourceUrl: 'https://chat.whatsapp.com/C6ivOH7HeeR5URsOcTeGhE',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
