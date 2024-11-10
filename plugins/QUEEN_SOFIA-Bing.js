@@ -21,7 +21,7 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
       'https://techcrunch.com/wp-content/uploads/2023/11/microsoft-copilot-bing.jpg', 
       [['Script', `${usedPrefix}waifu`]], 
       null, 
-      [['Fork repo', `https://github.com/salmanytofficial/XLICON-V2-MD`]], 
+      [['Fork repo', `https://github.com/PAPAIGWE241/QUEEN_SOFIA`]], 
       m
     );
   } catch (error) {
