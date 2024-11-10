@@ -14,7 +14,7 @@ export async function before(m, { isAdmin, isBotAdmin }) {
             await this.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: m.key.id, participant: m.key.participant }})
             await this.reply(m.chat, '⛔ *Bad words are forbidden by group admins.*', m)
         } else {
-            await this.reply(m.chat, '😬 *I\'m not an admin here!*', m)
+            await this.reply(m.chat, '😬 *sofia Is\' not an admin here!*', m)
         }
     }
     return !0
