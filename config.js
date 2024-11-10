@@ -48,8 +48,8 @@ global.APIKeys = {
 // Sticker WM
 global.botname = '𝚀𝚄𝙴𝙴𝙽-𝚂𝙾𝙵𝙸𝙰-𝙼𝙳'
 global.premium = 'true'
-global.packname = '𝘘𝘜𝘌𝘌𝘕-𝘚𝘖𝘍𝘐𝘈' 
-global.author = '𝔓𝔄𝔓𝔄 ℑ𝔊𝔚𝔈' 
+global.packname = '𝙿𝙰𝙿𝙰 𝙸𝙶𝚆𝙴' 
+global.author = '𝚀𝚄𝙴𝙴𝙽-𝚂𝙾𝙵𝙸𝙰-𝙼𝙳' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ 𝐹𝑂𝐿𝑂𝑊 𝑀𝑌 𝐶𝐻𝐴𝑁𝑁𝐸𝐿\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
