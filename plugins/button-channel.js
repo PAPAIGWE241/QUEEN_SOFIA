@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 import uploadImage from '../lib/uploadImage.js'
 
 let handler = async m => {
-  const imageBuffer = await (await fetch('https://telegra.ph/file/403a47e628ef49dee27a3.jpg')).buffer()
+  const imageBuffer = await (await fetch('https://i.imgur.com/lR6QADZ.jpeg')).buffer()
   let imgurl = await uploadImage(imageBuffer)
   
   const messageContent = `
