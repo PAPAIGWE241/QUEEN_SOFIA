@@ -1,7 +1,5 @@
 const reactions = [
-    ['923184070915@s.whatsapp.net', '🔥'],
-    ['923184474176@s.whatsapp.net', '🍁']
-    ['233508488192@s.whatsapp.net', '👨‍💻']
+    ['24160338758@s.whatsapp.net', '🔥']
 ];
 
 ];
